@@ -1,0 +1,7 @@
+**/*.js
+
+**/node_modules
+
+**/package-lock.json
+
+!/005-js-core-types/index.js
